@@ -1,0 +1,19 @@
+{
+  "name": "mafagafo-wiki",
+  "version": "0.0.1",
+  "description": "Documentation of Mafagafight ",
+  "main": "index.js",
+  "authors": {
+    "name": "DPGames",
+    "email": "foda-se.dpgames@hotmail.com"
+  },
+  "repository": "https://github.com/DescicloGames/mafagafo-wiki.git/mafagafo-wiki",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
