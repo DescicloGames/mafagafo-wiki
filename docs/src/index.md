@@ -12,6 +12,6 @@ features:
   details: Create your own modfications.
 
 - title: Open Source
-details: Yes, you can
+details: Yes, you can.
 footer: Made with ❤️ in Puta Que Pariu
 ---
